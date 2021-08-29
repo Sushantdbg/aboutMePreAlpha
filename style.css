@@ -1,4 +1,7 @@
-/**************TAG SELECTOR*****************/
+/* WARNING: Head section css */
+body {
+  background-color: #F0D9FF;
+}
 
 hr {
   border-style: dotted none none none;
@@ -8,8 +11,10 @@ hr {
   width: 35%;
 }
 
-body {
-  background-color: #F0D9FF;
+/* WARNING: body css */
+/* WARNING: table css */
+#title {
+  color: green;
 }
 
 h1 {
@@ -18,17 +23,4 @@ h1 {
 
 h3 {
   color: #66BFBF;
-}
-img{
-  background-color: red;
-}
-
-/*****************CLASS SELECTOR********************/
-.loli{
-  background-color: yellow;
-}
-/*****************ID SELECTOR********************/
-
-#title{
-  color: green;
 }
